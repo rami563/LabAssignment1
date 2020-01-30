@@ -11,5 +11,5 @@ class HelloWorld {
     }
 }
 
-const myHelloClassInstance = new HelloWorld('Agratsant', 'Saxena');
+const myHelloClassInstance = new HelloWorld('Rami', 'Abed');
 myHelloClassInstance.sayHello();

@@ -8,5 +8,5 @@ var HelloWorld = (function () {
     };
     return HelloWorld;
 })();
-var myHelloClassInstance = new HelloWorld('Agratsant', 'Saxena');
+var myHelloClassInstance = new HelloWorld('Rami', 'Abed');
 myHelloClassInstance.sayHello();
